@@ -1,10 +1,48 @@
 # DS-emulators
 
-Welcome! This repository houses a set of emulators for a sophisticated cosmology model inspired by the halo model reaction
+Welcome! This repository houses a set of emulators built upon the framework of the halo model reaction. 
 
 
 
-## Parameter ranges
+# Documentation
+
+Since these emulators were trained by ``CosmoPower``, we recommend using them within a [Conda](https://docs.conda.io/projects/conda/en/latest/index.html) virtual environment. Comprehensive documentation of ``CosmoPower`` is available [here](https://alessiospuriomancini.github.io/cosmopower).
+
+For example, to create and activate an environment called ``emu_env``, use:
+
+    conda create -n cp_env python=3.7 pip && conda activate emu_env
+
+Once inside the environment, you can install ``CosmoPower``:
+
+- **from PyPI**
+
+        pip install cosmopower
+
+    To test the installation, you can use
+
+        python3 -c 'import cosmopower as cp'
+    
+    If you do not have a GPU on your machine, you will see a warning message about it which you can safely ignore.
+
+- **from source**
+
+        git clone https://github.com/alessiospuriomancini/cosmopower
+        cd cosmopower
+        pip install .
+
+    To test the installation, you can use
+
+        pytest
+
+Now, you are ready to use the emulators! :-) 
+
+
+# Getting Started:
+
+To get started with usage of emulators
+
+
+## Emulator validity
 
 | Parameter  | Range |
 | ---------  | ----- |
