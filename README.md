@@ -2,15 +2,19 @@
 
 Welcome! This repository houses a set of emulators built upon the framework of the halo model reaction. 
 
-
+Comprehensive documentation of ``CosmoPower`` is available [here](https://alessiospuriomancini.github.io/cosmopower).
 
 # Documentation
 
-Since these emulators were trained by ``CosmoPower``, we recommend using them within a [Conda](https://docs.conda.io/projects/conda/en/latest/index.html) virtual environment. Comprehensive documentation of ``CosmoPower`` is available [here](https://alessiospuriomancini.github.io/cosmopower).
+Since these emulators were trained by ``CosmoPower``, we recommend using them within a [Conda](https://docs.conda.io/projects/conda/en/latest/index.html) virtual environment. 
 
 For example, to create and activate an environment called ``emu_env``, use:
 
-    conda create -n cp_env python=3.7 pip && conda activate emu_env
+    conda create -n emu_env python=3.7 pip
+
+Then, you may easily activate the environment:
+
+    conda activate emu_env
 
 Once inside the environment, you can install ``CosmoPower``:
 
