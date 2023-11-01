@@ -16,3 +16,21 @@
 | <img src="https://render.githubusercontent.com/render/math?math=c_\mathrm{min}"> | <img src="https://render.githubusercontent.com/render/math?math=[2, 4]"> |
 | <img src="https://render.githubusercontent.com/render/math?math=\eta_0"> | <img src="https://render.githubusercontent.com/render/math?math=[0.5, 1]"> |
 | <img src="https://render.githubusercontent.com/render/math?math=z"> | <img src="https://render.githubusercontent.com/render/math?math=[0, 5]"> |
+
+
+
+
+# License
+
+``CosmoPower`` is released under the GPL-3 license (see [LICENSE](https://github.com/alessiospuriomancini/cosmopower/blob/main/LICENSE)) subject to 
+the non-commercial use condition (see [LICENSE_EXT](https://github.com/alessiospuriomancini/cosmopower/blob/main/LICENSE_EXT)).
+
+    CosmoPower
+    Copyright (C) 2021 A. Spurio Mancini & contributors
+
+    This program is released under the GPL-3 license (see LICENSE), 
+    subject to a non-commercial use condition (see LICENSE_EXT).
+
+    This program is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
