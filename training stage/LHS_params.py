@@ -12,15 +12,13 @@ obh2 =      np.linspace(0.01865, 0.02625, n_samples)
 omch2 =     np.linspace(0.1,    0.255,   n_samples)
 h =         np.linspace(0.64,    0.82,    n_samples)
 ns =        np.linspace(0.84,    1.1,     n_samples)
-#Reaction error: Values of As compatible are set 1.5e-9<As<2.5e-9 which is 2.7< ln(10^10 As) <3.2
-#lnAs =      np.linspace(2.8,    3.15,     n_samples)
 S8 =      np.linspace(0.6,    0.9,     n_samples)
 z =         np.linspace(0,       5,       n_samples)
 #pyhmcode does not accept the value m_nu = 0.00202020202020202
 mnu =       np.linspace(0.0,    0.2,    n_samples)
-# ReACT ranges -1.3<w0<-0.7 in order to spherical collapse library can solve the virial theorem.
+#ReACT ranges -1.3<w0<-0.7 in order to spherical collapse library can solve the virial theorem.
 w =         np.linspace(-0.7,    -1.3,    n_samples)
-A_abs =     np.linspace(0, 10,            n_samples) # A = abs(\xi*(1+w))
+A_abs =     np.linspace(0, 10,            n_samples) # A_abs = abs(A_ds) = abs(\xi*(1+w))
 z =         np.linspace(0,       5.0,     n_samples)
 
 # LHS grid
@@ -48,4 +46,4 @@ for ii in range(n_arrays):
           'z': AllCombinations[:, 8][a_index:b_index],
            }
 
-    np.savez('DS_LHS_parameter_{file}.npz'.format(file=int(ii+1)), **params)
+    np.savez('LHS_parameter_{file}.npz'.format(file=int(ii+1)), **params)
