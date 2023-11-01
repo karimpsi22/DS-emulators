@@ -20,7 +20,7 @@
 
 # Citation
 
-If you use these emulator based on ``CosmoPower`` in your work please cite its [release paper](https://arxiv.org/abs/2106.03846):
+If you use the emulators from this repository in your research, please consider citing the original [release paper](https://arxiv.org/abs/2106.03846):
 
     @article{carrion2023,
              title={Dark Scattering: accelerated constraints from KiDS-1000 with ReACT and CosmoPower}, 
@@ -31,7 +31,7 @@ If you use these emulator based on ``CosmoPower`` in your work please cite its [
              primaryClass={astro-ph.CO}
              }
 
-If you use ``CosmoPower`` at any point in your work please cite its [release paper](https://arxiv.org/abs/2106.03846):
+In addition please cite  ``CosmoPower`` [release paper](https://arxiv.org/abs/2106.03846):
 
     @article{SpurioMancini2022,
          title={CosmoPower: emulating cosmological power spectra for accelerated Bayesian inference from next-generation surveys},
