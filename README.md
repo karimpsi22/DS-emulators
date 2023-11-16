@@ -1,6 +1,6 @@
 # DS-emulators
 
-Welcome! This repository houses a non-linear matter spectrum emulator of Dark Scattering (DS) model built upon the framework of the halo model reaction. In addition, a baryonic feedback emulator based on ``HMC0DE2016_FEEDBACK``. 
+Welcome! This repository houses a non-linear and linear matter spectrum emulator of Dark Scattering (DS) model built upon the framework of the halo model reaction. In addition, a baryonic feedback emulator based on ``HMC0DE2016_FEEDBACK``. 
 
 Comprehensive documentation of ``CosmoPower`` is available [here](https://alessiospuriomancini.github.io/cosmopower).
 
