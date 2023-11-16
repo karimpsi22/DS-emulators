@@ -8,7 +8,7 @@ Comprehensive documentation of ``CosmoPower`` is available [here](https://alessi
 
 Since these emulators were trained by ``CosmoPower``, we recommend using them within a [Conda](https://docs.conda.io/projects/conda/en/latest/index.html) virtual environment. 
 
-For example, to create and activate an environment called ``emu_env``, use:
+For example, to create an environment called ``emu_env``, use:
 
     conda create -n emu_env python=3.7 pip
 
