@@ -38,7 +38,7 @@ Once inside the environment, you can install ``CosmoPower``:
 
         pytest
 
-Now, you are ready to use the emulators! :-) 
+You are now well-prepared to start utilizing the emulators! 
 
 
 # Getting Started:
