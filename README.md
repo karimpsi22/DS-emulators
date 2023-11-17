@@ -46,7 +46,7 @@ You are now ready to start utilizing the emulators!
 To get started with usage of emulators
 
 
-## Emulator validity
+## Emulators validity
 
 | Parameter  | Range |
 | ---------  | ----- |
@@ -60,6 +60,12 @@ To get started with usage of emulators
 | <img src="https://render.githubusercontent.com/render/math?math=c_\mathrm{min}"> | <img src="https://render.githubusercontent.com/render/math?math=[2, 4]"> |
 | <img src="https://render.githubusercontent.com/render/math?math=\eta_0"> | <img src="https://render.githubusercontent.com/render/math?math=[0.5, 1]"> |
 | <img src="https://render.githubusercontent.com/render/math?math=z"> | <img src="https://render.githubusercontent.com/render/math?math=[0, 5]"> |
+
+
+
+## Emulators accuracy
+
+<div align="center"><img src="https://github.com/karimpsi22/DS-emulators/accuracy_DS_linear_emulator_S8.pdf" width="500" height="400"> </div>
 
 
 # Citation
