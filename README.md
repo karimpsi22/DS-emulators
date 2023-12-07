@@ -61,7 +61,7 @@ To get started with usage of emulators
 |    'c_min'    | [2, 4] |
 |    'eta_0'    | [0.5, 1] |
 |      'z'      | [0, 5] |
-
+|   ---------   | ------------ |
 
 ## Emulators accuracy
 
