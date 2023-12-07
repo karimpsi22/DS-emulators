@@ -61,7 +61,6 @@ To get started with usage of emulators
 |    'c_min'    | [2, 4] |
 |    'eta_0'    | [0.5, 1] |
 |      'z'      | [0, 5] |
-|   ---------   | ------------ |
 
 
 Please feel free to look at the `notebooks` directory to find a comprehensive tutorial scripts designed to guide you through the usage of our emulators. Whether you're a beginner or an experienced user, these tutorials cover essential tasks such as emulators setup, manage, and visualization.
