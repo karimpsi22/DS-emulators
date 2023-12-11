@@ -73,7 +73,7 @@ Please feel free to look at the `notebooks` directory to find a comprehensive tu
 
 <div align="center"><img src="https://github.com/karimpsi22/DS-emulators/blob/main/accuracy_DS_nonlinear_emulator_with_S8.png" width="500" height="400"> </div>
 
-<div align="left"><img src="https://github.com/karimpsi22/DS-emulators/blob/main/accuracy_DS_linear_emulator_with_S8.png" width="500" height="400"> </div>
+<div align="left"><img src="https://github.com/karimpsi22/DS-emulators/blob/main/accuracy_linear_emulator_with_S8.png" width="500" height="400"> 
 
 <div align="right"><img src="https://github.com/karimpsi22/DS-emulators/blob/main/accuracy_bayonic_emulator.png" width="500" height="400"> </div>
 
