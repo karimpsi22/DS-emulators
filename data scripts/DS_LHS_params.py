@@ -8,18 +8,18 @@ n_samples = 200000
 n_arrays = 100
 len_files = int(n_samples/n_arrays)
 
-obh2 =      np.linspace(0.01865, 0.02625, n_samples)
-omch2 =     np.linspace(0.1, 0.255, n_samples)
-h =         np.linspace(0.64, 0.82, n_samples)
-ns =        np.linspace(0.84, 1.1, n_samples)
-S8 =      np.linspace(0.6, 0.9, n_samples)
-z =         np.linspace(0, 5, n_samples)
+obh2 = np.linspace(0.01865, 0.02625, n_samples)
+omch2 = np.linspace(0.1, 0.255, n_samples)
+h = np.linspace(0.64, 0.82, n_samples)
+ns = np.linspace(0.84, 1.1, n_samples)
+S8 = np.linspace(0.6, 0.9, n_samples)
+z = np.linspace(0, 5, n_samples)
 #pyhmcode does not accept values below m_nu = 0.00202020202020202
-mnu =       np.linspace(0.0, 0.2, n_samples)
+mnu = np.linspace(0.0, 0.2, n_samples)
 #ReACT ranges -1.3<w0<-0.7 in order to spherical collapse library can solve the virial theorem.
-w =         np.linspace(-0.7, -1.3, n_samples)
-A_abs =     np.linspace(0, 10, n_samples) #A_abs = abs(A_ds) = abs(\xi*(1+w))
-z =         np.linspace(0, 5.0, n_samples)
+w = np.linspace(-0.7, -1.3, n_samples)
+A_abs = np.linspace(0, 10, n_samples) #A_abs = abs(A_ds) = abs(\xi*(1+w))
+z = np.linspace(0, 5.0, n_samples)
 
 # LHS grid
 AllParams = np.vstack([obh2, omch2, h, ns, S8, mnu, w, A_abs, z])
