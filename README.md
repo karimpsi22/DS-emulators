@@ -47,7 +47,7 @@ To get started with usage of emulators, please ensure that you check the validit
 
 ## Emulators validity
 
-|   Parameter   |   Range   |    Definition   |
+|  Input parameter   |   Range   |    Definition   |
 |   ---------   | ------------ | ------------ |
 |   'omega_b'   | [0.01875, 0.02625] | Physical baryon density parameter |
 |   'omega_cdm' | [0.05, 0.255] | Physical dark matter density parameter |
@@ -65,6 +65,19 @@ To get started with usage of emulators, please ensure that you check the validit
 Please feel free to look at the `notebooks` directory to find a comprehensive tutorial scripts designed to guide you through the usage of our emulators. Whether you're a beginner or an experienced user, these tutorials cover essential tasks such as emulators setup, manage, and visualization.
 
 ## Emulators accuracy
+
+We provide visual representations of the accuracy of the emulators. The figures show the accuracy of each emulator:
+
+1. **Non-linear Emulator**
+   - ![Non-linear Emulator](https://github.com/karimpsi22/DS-emulators/blob/main/accuracy_DS_nonlinear_emulator_with_S8.png)
+
+2. **Linear Emulator with S8**
+   - ![Linear Emulator](https://github.com/karimpsi22/DS-emulators/blob/main/accuracy_linear_emulator_with_S8.png)
+
+3. **Baryonic Emulator**
+   - ![Baryonic Emulator](https://github.com/karimpsi22/DS-emulators/blob/main/accuracy_bayonic_emulator.png)
+
+
 
 <div align="center">
 </div>
