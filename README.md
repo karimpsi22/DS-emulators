@@ -47,19 +47,19 @@ To get started with usage of emulators, please ensure that you check the validit
 
 ## Emulators validity
 
-|   Parameter   |   Range   |
-|   ---------   | ------------ |
-|   'omega_b'   | [0.01875, 0.02625] | 
-|   'omega_cdm' | [0.05, 0.255] |
-|      'h'      | [0.64, 0.82] |
-|     'n_s'     | [0.84, 1.1]  |
-|     'S_8'     | [0.6, 0.9] |
-|     'm_nu'     | [0, 0.2] |
-|      'w'      | [-1.3, -0.7] |
-|      'A'      | [-10, 10] |
-|    'c_min'    | [2, 4] |
-|    'eta_0'    | [0.5, 1] |
-|      'z'      | [0,5] |
+|   Parameter   |   Range   |    Meaning   |
+|   ---------   | ------------ | ------------ |
+|   'omega_b'   | [0.01875, 0.02625] | Physical baryon density parameter |
+|   'omega_cdm' | [0.05, 0.255] | Physical dark matter density parameter |
+|      'h'      | [0.64, 0.82] | Reduced Hubble constant |
+|     'n_s'     | [0.84, 1.1]  | Scalar spectral index |
+|     'S_8'     | [0.6, 0.9] | Amplitude of matter fluctuations |
+|     'm_nu'     | [0, 0.2] | Neutrino mass |
+|      'w'      | [-1.3, -0.7] | Equation of state of dark energy |
+|      'A'      | [-10, 10] | DS interaction term |
+|    'c_min'    | [2, 4] | Baryonic parameter |
+|    'eta_0'    | [0.5, 1] | Baryonic parameter |
+|      'z'      | [0,5] | Redshift |
 
 
 Please feel free to look at the `notebooks` directory to find a comprehensive tutorial scripts designed to guide you through the usage of our emulators. Whether you're a beginner or an experienced user, these tutorials cover essential tasks such as emulators setup, manage, and visualization.
