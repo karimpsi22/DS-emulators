@@ -47,7 +47,7 @@ To get started with usage of emulators, please ensure that you check the validit
 
 ## Emulators validity
 
-|   Parameter   |   Range   |    Meaning   |
+|   Parameter   |   Range   |    Definition   |
 |   ---------   | ------------ | ------------ |
 |   'omega_b'   | [0.01875, 0.02625] | Physical baryon density parameter |
 |   'omega_cdm' | [0.05, 0.255] | Physical dark matter density parameter |
