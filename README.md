@@ -67,7 +67,7 @@ Please feel free to look at the `notebooks` directory to find a comprehensive tu
 
 ## Emulators accuracy
 
-<div align="center"><img src="https://github.com/karimpsi22/DS-emulators/accuracy_DS_linear_emulator_S8.pdf" width="500" height="400"> </div>
+<div align="center"><img src="https://github.com/karimpsi22/DS-emulators/accuracy_DS_linear_emulator_S8.png" width="500" height="400"> </div>
 
 
 # Citation
