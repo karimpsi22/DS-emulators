@@ -76,19 +76,15 @@ We provide visual representations of the accuracy of the emulators. The figures 
 
 2. **Linear Emulator with S8**
 <div align="center">
-  <figure>
-    <img src="https://github.com/karimpsi22/DS-emulators/blob/main/accuracy_linear_emulator_with_S8.png" width="500" height="400">
-
-  </figure>
-
-3. **Baryonic Emulator**
-  <figure>
-    <img src="https://github.com/karimpsi22/DS-emulators/blob/main/accuracy_bayonic_emulator.png" width="500" height="400">
-  </figure>
+</div>
+<div align="center"><img src="https://github.com/karimpsi22/DS-emulators/blob/main/accuracy_linear_emulator_with_S8.png" width="500" height="400"> 
 </div>
 
-
-  
+3. **Baryonic Emulator**
+<div align="center">
+</div>
+<div align="center"><img src="https://github.com/karimpsi22/DS-emulators/blob/main/accuracy_bayonic_emulator.png" width="500" height="400"> 
+</div>
 
 
 # Citation
