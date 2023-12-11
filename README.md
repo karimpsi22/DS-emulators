@@ -86,7 +86,7 @@ Please feel free to look at the `notebooks` directory to find a comprehensive tu
 
 If you use the emulators from this repository in your research, please consider citing the original [release paper](https://arxiv.org/abs/2106.03846):
 
-    @article{carrion2023,
+    @article{
              TBA
              }
 
