@@ -68,19 +68,19 @@ Please feel free to look at the `notebooks` directory to find a comprehensive tu
 
 We provide visual representations of the accuracy of the emulators. The figures show the accuracy of each emulator:
 
-1. **Non-linear Emulator**
+1. **DS non-linear matter power spectrum emulator**
 <div align="center">
 </div>
 <div align="center"><img src="https://github.com/karimpsi22/DS-emulators/blob/main/accuracy_DS_nonlinear_emulator_with_S8.png" width="500" height="400"> 
 </div>
 
-2. **Linear Emulator with S8**
+2. **DS linear matter power spectrum emulator**
 <div align="center">
 </div>
 <div align="center"><img src="https://github.com/karimpsi22/DS-emulators/blob/main/accuracy_linear_emulator_with_S8.png" width="500" height="400"> 
 </div>
 
-3. **Baryonic Emulator**
+3. **Baryonic feedback emulator**
 <div align="center">
 </div>
 <div align="center"><img src="https://github.com/karimpsi22/DS-emulators/blob/main/accuracy_bayonic_emulator.png" width="500" height="400"> 
