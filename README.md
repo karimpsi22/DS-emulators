@@ -43,14 +43,13 @@ You are now ready to start utilizing the emulators!
 
 # Getting Started:
 
-To get started with usage of emulators
-
+To get started with usage of emulators, please ensure that you check the validity range of the input parameters for each emulator. 
 
 ## Emulators validity
 
 |   Parameter   |   Range   |
 |   ---------   | ------------ |
-|   'omega_b'   | [0.01875, 0.02625] |
+|   'omega_b'   | [0.01875, 0.02625] | 
 |   'omega_cdm' | [0.05, 0.255] |
 |      'h'      | [0.64, 0.82] |
 |     'n_s'     | [0.84, 1.1]  |
@@ -60,7 +59,7 @@ To get started with usage of emulators
 |      'A'      | [-10, 10] |
 |    'c_min'    | [2, 4] |
 |    'eta_0'    | [0.5, 1] |
-|      'z'      | [0, 5] |
+|      'z'      | [0,5] |
 
 
 Please feel free to look at the `notebooks` directory to find a comprehensive tutorial scripts designed to guide you through the usage of our emulators. Whether you're a beginner or an experienced user, these tutorials cover essential tasks such as emulators setup, manage, and visualization.
