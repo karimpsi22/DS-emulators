@@ -55,7 +55,7 @@ To get started with usage of emulators, please ensure that you check the validit
 |     'n_s'     | [0.84, 1.1]  | Scalar spectral index |
 |     'S_8'     | [0.6, 0.9] | Amplitude of matter fluctuations |
 |     'm_nu'     | [0, 0.2] | Neutrino mass |
-|      'w'      | [-1.3, -0.7] | Equation of state of dark energy |
+|      'w'      | [-1.3, -0.7] | Dark energy equation of state |
 |      'A'      | [-10, 10] | DS interaction term |
 |    'c_min'    | [2, 4] | Baryonic parameter |
 |    'eta_0'    | [0.5, 1] | Baryonic parameter |
