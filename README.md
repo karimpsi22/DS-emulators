@@ -68,14 +68,21 @@ Please feel free to look at the `notebooks` directory to find a comprehensive tu
 ## Emulators accuracy
 
 <div align="center">
-### DS non-linear matter power spectrum emulator    
+</div>
+<div align="center"><img src="https://github.com/karimpsi22/DS-emulators/blob/main/accuracy_DS_nonlinear_emulator_with_S8.png" width="500" height="400"> 
+<figcaption> DS Non-linear matter power spectrum emulator</figcaption>
 </div>
 
-<div align="center"><img src="https://github.com/karimpsi22/DS-emulators/blob/main/accuracy_DS_nonlinear_emulator_with_S8.png" width="500" height="400"> </div>
-
 <div align="center">
-  <img src="https://github.com/karimpsi22/DS-emulators/blob/main/accuracy_linear_emulator_with_S8.png" width="500" height="400">
-  <img src="https://github.com/karimpsi22/DS-emulators/blob/main/accuracy_bayonic_emulator.png" width="500" height="400">
+  <figure>
+    <img src="https://github.com/karimpsi22/DS-emulators/blob/main/accuracy_linear_emulator_with_S8.png" width="500" height="400">
+    <figcaption> DS Linear matter power spectrum emulator</figcaption>
+  </figure>
+  
+  <figure>
+    <img src="https://github.com/karimpsi22/DS-emulators/blob/main/accuracy_bayonic_emulator.png" width="500" height="400">
+    <figcaption>Figure 2: Baryonic feedback emulator</figcaption>
+  </figure>
 </div>
 
 # Citation
