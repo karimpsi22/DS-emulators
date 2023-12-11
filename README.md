@@ -88,12 +88,7 @@ Please feel free to look at the `notebooks` directory to find a comprehensive tu
 If you use the emulators from this repository in your research, please consider citing the original [release paper](https://arxiv.org/abs/2106.03846):
 
     @article{carrion2023,
-             title={Dark Scattering: accelerated constraints from KiDS-1000 with ReACT and CosmoPower}, 
-             author={{Spurio Mancini}, A. and {Piras}, D. and {Alsing}, J. and {Joachimi}, B. and {Hobson}, M.~P.},
-             year={2021},
-             eprint={2106.03846},
-             archivePrefix={arXiv},
-             primaryClass={astro-ph.CO}
+             TBA
              }
 
 In addition please cite  ``CosmoPower`` [release paper](https://arxiv.org/abs/2106.03846):
