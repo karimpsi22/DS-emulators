@@ -7,14 +7,14 @@ n_samples = 150000
 n_arrays = 20
 len_files = int(n_samples/n_arrays)
 
-obh2 =      np.linspace(0.01865, 0.02625, n_samples)
-omch2 =     np.linspace(0.05,    0.255,   n_samples)
-h =         np.linspace(0.64,    0.82,    n_samples)
-ns =        np.linspace(0.84,    1.1,     n_samples)
-S8 =      np.linspace(0.6,    0.9,     n_samples)
-cmin = np.linspace(2.0 , 4.0, n_samples)
+obh2 = np.linspace(0.01865, 0.02625, n_samples)
+omch2 = np.linspace(0.05, 0.255, n_samples)
+h = np.linspace(0.64, 0.82, n_samples)
+ns = np.linspace(0.84, 1.1, n_samples)
+S8 = np.linspace(0.6, 0.9, n_samples)
+cmin = np.linspace(2.0, 4.0, n_samples)
 eta0 = np.linspace(0.5, 1.0, n_samples)
-z =         np.linspace(0,       5.0,     n_samples)
+z = np.linspace(0, 5.0, n_samples)
 
 # LHS grid
 
