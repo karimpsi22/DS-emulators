@@ -69,31 +69,27 @@ Please feel free to look at the `notebooks` directory to find a comprehensive tu
 We provide visual representations of the accuracy of the emulators. The figures show the accuracy of each emulator:
 
 1. **Non-linear Emulator**
-   - ![Non-linear Emulator](https://github.com/karimpsi22/DS-emulators/blob/main/accuracy_DS_nonlinear_emulator_with_S8.png)
-
-2. **Linear Emulator with S8**
-   - ![Linear Emulator](https://github.com/karimpsi22/DS-emulators/blob/main/accuracy_linear_emulator_with_S8.png)
-
-3. **Baryonic Emulator**
-   - ![Baryonic Emulator](https://github.com/karimpsi22/DS-emulators/blob/main/accuracy_bayonic_emulator.png)
-
-
-
 <div align="center">
 </div>
 <div align="center"><img src="https://github.com/karimpsi22/DS-emulators/blob/main/accuracy_DS_nonlinear_emulator_with_S8.png" width="500" height="400"> 
 </div>
 
+2. **Linear Emulator with S8**
 <div align="center">
   <figure>
     <img src="https://github.com/karimpsi22/DS-emulators/blob/main/accuracy_linear_emulator_with_S8.png" width="500" height="400">
 
   </figure>
-  
+
+3. **Baryonic Emulator**
   <figure>
     <img src="https://github.com/karimpsi22/DS-emulators/blob/main/accuracy_bayonic_emulator.png" width="500" height="400">
   </figure>
 </div>
+
+
+  
+
 
 # Citation
 
