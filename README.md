@@ -43,7 +43,7 @@ You are now ready to start utilizing the emulators!
 
 # Getting Started:
 
-To get started with usage of emulators, please ensure that you check the validity range of the input parameters for each emulator. 
+To kick off the use of emulators, please ensure that you check the validity range of the input parameters for each emulator. 
 
 ## Emulators validity
 
