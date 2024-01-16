@@ -71,13 +71,13 @@ We provide visual representations of the accuracy of the emulators. The figures 
 1. **DS non-linear matter power spectrum emulator**
 <div align="center">
 </div>
-<div align="center"><img src="https://github.com/karimpsi22/DS-emulators/blob/main/accuracy_DS_nonlinear_emulator_with_S8.png" width="500" height="400"> 
+<div align="center"><img src="https://github.com/karimpsi22/DS-emulators/blob/main/accuracy_DS_nonlinear_emulator.png" width="500" height="400"> 
 </div>
 
 2. **DS linear matter power spectrum emulator**
 <div align="center">
 </div>
-<div align="center"><img src="https://github.com/karimpsi22/DS-emulators/blob/main/accuracy_linear_emulator_with_S8.png" width="500" height="400"> 
+<div align="center"><img src="https://github.com/karimpsi22/DS-emulators/blob/main/accuracy_linear_emulator.png" width="500" height="400"> 
 </div>
 
 3. **Baryonic feedback emulator**
