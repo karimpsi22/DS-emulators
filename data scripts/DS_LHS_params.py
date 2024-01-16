@@ -18,7 +18,7 @@ z = np.linspace(0, 5, n_samples)
 mnu = np.linspace(0.0, 0.2, n_samples)
 #ReACT ranges -1.3<w0<-0.7 in order to spherical collapse library can solve the virial theorem.
 w = np.linspace(-0.7, -1.3, n_samples)
-A_abs = np.linspace(0, 10, n_samples) #A_abs = abs(A_ds) = abs(\xi*(1+w))
+A_abs = np.linspace(0, 30, n_samples) #A_abs = abs(A_ds) = abs(\xi*(1+w))
 z = np.linspace(0, 5.0, n_samples)
 
 # LHS grid
