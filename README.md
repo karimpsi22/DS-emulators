@@ -89,10 +89,10 @@ We provide visual representations of the accuracy of the emulators. The figures 
 
 # Citation
 
-If you use the emulators from this repository in your research, please consider citing the original [release paper](https://arxiv.org/abs/2106.03846):
+If you use the emulators from this repository in your research, please consider citing the original [release paper](https://arxiv.org/abs/2402.18562):
 
     @article{
-             TBA
+             
              }
 
 In addition please cite  ``CosmoPower`` [release paper](https://arxiv.org/abs/2106.03846):
