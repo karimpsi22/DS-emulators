@@ -91,9 +91,15 @@ We provide visual representations of the accuracy of the emulators. The figures 
 
 If you use the emulators from this repository in your research, please consider citing the original [release paper](https://arxiv.org/abs/2402.18562):
 
-    @article{
-             
-             }
+    @article{Carrion:2024itc,
+    author = "Carrion, Karim and Carrilho, Pedro and Spurio Mancini, Alessio and Pourtsidou, Alkistis and Hidalgo, Juan Carlos",
+    title = "{Dark Scattering: accelerated constraints from KiDS-1000 with $\tt{ReACT}$ and $\tt{CosmoPower}$}",
+    eprint = "2402.18562",
+    archivePrefix = "arXiv",
+    primaryClass = "astro-ph.CO",
+    month = "2",
+    year = "2024"
+    }
 
 In addition please cite  ``CosmoPower`` [release paper](https://arxiv.org/abs/2106.03846):
 
