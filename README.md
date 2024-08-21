@@ -93,14 +93,18 @@ If you use the emulators from this repository in your research, please consider 
 
     @article{Carrion:2024itc,
     author = "Carrion, Karim and Carrilho, Pedro and Spurio Mancini, Alessio and Pourtsidou, Alkistis and Hidalgo, Juan Carlos",
-    title = "{Dark Scattering: accelerated constraints from KiDS-1000 with $\tt{ReACT}$ and $\tt{CosmoPower}$}",
+    title = "{Dark scattering: accelerated constraints from KiDS-1000 with ReACT and CosmoPower}",
     eprint = "2402.18562",
     archivePrefix = "arXiv",
     primaryClass = "astro-ph.CO",
-    month = "2",
+    doi = "10.1093/mnras/stae1663",
+    journal = "Mon. Not. Roy. Astron. Soc.",
+    volume = "532",
+    number = "4",
+    pages = "3914--3925",
     year = "2024"
     }
-
+    
 In addition please cite  ``CosmoPower`` [release paper](https://arxiv.org/abs/2106.03846):
 
     @article{SpurioMancini2022,
