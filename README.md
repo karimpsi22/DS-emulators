@@ -10,7 +10,7 @@ Since these emulators were trained by ``CosmoPower``, we recommend using them wi
 
 For example, to create an environment called ``emu_env``, use:
 
-    conda create -n emu_env python=3.7 pip
+    conda create -n emu_env python=3.10 pip
 
 Then, you may easily activate the environment:
 
